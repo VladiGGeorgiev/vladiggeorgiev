@@ -4,7 +4,7 @@ Hi there 👋 I am Vladimir Georgiev. I am software engineer, development lead a
 
 - 🔭 I have about 10 years of experience as a software engineer with .NET Stack - .NET, JavaScript, Angular, SQL Server, IIS...
 - 🌱 I’m currently getting into machine learning & business.
-- 👯 I’m looking to collaborate on startups.
+- 👯 I’m looking to collaborate/copartner on startup projects.
 - 💬 Ask me about everything in software development.
 - ⚡ Interests: Beach volleyball, snowboarding, wakeboarding.
 - 📫 Text me on: [Instagram - @vladiggeorgiev](https://instagram.com/vladiggeorgiev)
