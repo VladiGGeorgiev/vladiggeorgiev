@@ -1,7 +1,6 @@
-### Hi there 👋
 ![Vladimir Georgiev](https://github.com/VladiGGeorgiev/vladiggeorgiev/blob/master/fb%20cover.jpg)
 
-I am Vladimir Georgiev. I am software engineer, development lead and speaker. Helping software engineers grow in their career.
+Hi there 👋 I am Vladimir Georgiev. I am software engineer, development lead and speaker.
 
 <!--
 - 🔭 I’m currently working on 
